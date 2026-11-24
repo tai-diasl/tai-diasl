@@ -36,11 +36,11 @@ Para mim, qualidade é o que o utilizador espera, as vezes sem saber, quando faz
 
 ### Testes
 
-Testes Manuais, Funcionais e Não Funcionais, API, Web, Exploratórios E2E e Regressivos.
+Manuais, Funcionais e Não Funcionais, API, Web, Exploratórios E2E e Regressivos.
 
-### Banco de Dados
+### Base de Dados
 
-SQL (MySQL, SQL Server) e NoSQL (MongoDB).
+SQL (MySQL, SQL Server) e NoSQL (MongoDB - básico).
 
 ### Automação
 
