@@ -2,10 +2,11 @@
 
 **`Analista de Qualidade e Teste de Software`**
 
-Me chamo Taís Dias, sou natural de São Paulo (Brasil) e vivo em Lisboa (Portugal) há muitos anos. 
-Sou graduada em Análise e Desenvolvimento de Sistemas e concluí a Mentoria em Qualidade e Teste de Software do Júlio de Lima. Atualmente estou a cursar a pós-graduação em Engenharia de Qualidade e Teste de Software, da PUC Minas e o mestrado em Informática e Gestão, do ISCTE.
+Sou natural de São Paulo (Brasil) e vivo em Lisboa (Portugal) há alguns anos. 
+Sou graduada em Análise e Desenvolvimento de Sistemas e concluí a Mentoria em Testes de Software do Júlio de Lima. 
+Atualmente estou a cursar a pós-graduação em Engenharia de Qualidade e Teste de Software, da PUC Minas e o mestrado em Informática e Gestão, do ISCTE.
 Também tenho Licenciatura em Educação Artística com Habilitação em Música e  possuo uma bagagem profissional diversa, que une comunicação, pensamento crítico e base técnica sólida.
-Para mim, qualidade é o que o utilizador espera, mesmo saber, quando faz uso de um sistema. A qualidade faz parte do seu pensamento e imaginário e cabe a nós, equipa de desenvolvimento, fazer com que a experiência de utilização atinja ou supere a sua expectativa.
+Para mim, qualidade é o que o utilizador espera, as vezes sem saber, quando faz uso de um sistema. A qualidade faz parte do seu pensamento e imaginário e cabe a nós, equipa de desenvolvimento, fazer com que a experiência de utilização atinja ou supere a sua expectativa.
 
 [Clique aqui](https://www.linkedin.com/in/taisadiasl/) e saiba mais no meu LinkedIn.
 
