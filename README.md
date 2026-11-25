@@ -36,7 +36,7 @@ Para mim, qualidade é o que o utilizador espera, as vezes sem saber, quando faz
 
 ### Testes
 
-Manuais, Funcionais e Não Funcionais, API, Web, Exploratórios E2E e Regressivos.
+Manuais, Funcionais e Não Funcionais, API, Web, Exploratórios, E2E e Regressivos.
 
 ### Base de Dados
 
@@ -75,7 +75,7 @@ FASM - Faculdade Santa Marcelina</br>
 ## Idiomas
 * Português (BR): Nativo
 * Inglês: Intermediário (B1 em desenvolvimento)
-* Francês: Básico (em desenvolvimento)
+* Francês: Básico (A2 em desenvolvimento)
 
 ---
 
